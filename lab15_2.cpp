@@ -61,6 +61,8 @@ void findColSum(const double *dPtr,double *result,int N,int M){
 		
 	}
 
+	
+
 	p= 0;
 	*(result+o) = ei;
 	o++;
